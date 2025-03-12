@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @weedu230
-- 👀 I’m interested in u  ...
-- 🌱 I’m currently learning ...
+# 💻 Muhammad Waleed Ahmed (Weedu)
 
+## 🚀 About Me
+Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.
 
+## 🔥 Technical Skills
+- **Programming Languages:** C#, Java, Python, JavaScript
+- **Software Development:** Object-Oriented Design, Design Patterns, Clean Code Principles
+- **Web Technologies:** HTML, CSS, React, Next.js
+- **Version Control & Tools:** Git, GitHub, GitLab, VS Code, IntelliJ, Postman, NetBeans
 
-<!---
-weedu230/weedu230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 Professional Interests
+- Artificial Intelligence & Machine Learning Applications
+- Cybersecurity & Ethical Hacking
+
+## 📫 Connect with Me
+- **GitHub:** [github.com/Weedu](#)
+- **LinkedIn:** [linkedin.com/in/weedu](#)
+- **Email:** waleed@example.com (Replace with your email)
