@@ -15,5 +15,5 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/Weedu](#)
-- **LinkedIn:** [linkedin.com/in/weedu](#)
-- **Email:** waleed@example.com (Replace with your email)
+
+- **Email:** mwaleedahmed256@gmail.com
