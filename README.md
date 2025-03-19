@@ -1,5 +1,5 @@
 # 💻 Muhammad Waleed Ahmed (Weedu)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=weedu230&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me
 Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.
 
@@ -17,4 +17,4 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **GitHub:** [github.com/Weedu](#)
 
 - **Email:** mwaleedahmed256@gmail.com
-- [![trophy](https://github-profile-trophy.vercel.app/?username=weedu230&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
