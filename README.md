@@ -17,3 +17,4 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **GitHub:** [github.com/Weedu](#)
 
 - **Email:** mwaleedahmed256@gmail.com
+- [![trophy](https://github-profile-trophy.vercel.app/?username=weedu230&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
