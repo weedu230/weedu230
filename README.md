@@ -9,8 +9,7 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **Web Technologies:** HTML, CSS, React, Next.js
 - **Version Control & Tools:** Git, GitHub, GitLab, VS Code, IntelliJ, Postman, NetBeans
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## 💡 Professional Interests
 - Artificial Intelligence & Machine Learning Applications
 - Cybersecurity & Ethical Hacking
