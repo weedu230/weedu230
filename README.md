@@ -52,15 +52,12 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/Weedu](#)  
+- **GitHub:** [github.com/weedu230](#)  
 - **Email:** mwaleedahmed256@gmail.com  
 
 ---
 
-## 🐍 Snake Animation (Auto-moving in Contributions)
-![GitHub Snake](https://github.com/weedu230/weedu230/blob/output/github-contribution-grid-snake.svg)  
 
----
 
 ## 🎯 Quotes & Fun Elements  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)  
