@@ -26,5 +26,8 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 ![GitHub Snake](https://github.com/weedu230/weedu230/blob/output/github-contribution-grid-snake.svg)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=weedu_knows_code;Mastering+OOP+%7C+Software+Engineering;Tech+Enthusiast+%7C+Anime+Lover;Code+%7C+Football+%7C+CR7+Forever" alt="Typing Animation" />
+</p>
 
 
