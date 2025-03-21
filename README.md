@@ -9,7 +9,8 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **Web Technologies:** HTML, CSS, React, Next.js
 - **Version Control & Tools:** Git, GitHub, GitLab, VS Code, IntelliJ, Postman, NetBeans
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+- [![Weedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weedu230&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedu230&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ## 💡 Professional Interests
 - Artificial Intelligence & Machine Learning Applications
 - Cybersecurity & Ethical Hacking
@@ -18,11 +19,10 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **GitHub:** [github.com/Weedu](#)
 
 - **Email:** mwaleedahmed256@gmail.com
-[![Weedu's GitHub stats](https://github-readme-stats.vercel.app/api?username=weedu230&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedu230&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=weedu230&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue)
-![GitHub Snake](https://github.com/weedu230/weedu230/blob/output/github-contribution-grid-snake.svg)
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
 
