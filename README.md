@@ -31,3 +31,16 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 </p>
 
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Moving Snake Animation">
+</p>
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Moving Snake" width="500">
+</p>
+
+
+
