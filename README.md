@@ -23,6 +23,7 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 - **Email:** mwaleedahmed256@gmail.com
 
 
+![GitHub Snake](https://github.com/weedu230/weedu230/blob/output/github-contribution-grid-snake.svg)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
