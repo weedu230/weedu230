@@ -16,8 +16,11 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
 - **Software Development:**  
@@ -28,7 +31,8 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
+
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
 
 - **Version Control & Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -41,12 +45,18 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
   ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 
-- **Microsoft Tools:** 
-  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white) 
+- **Microsoft Tools:**
+  
+  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
+  
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) 
+
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white) 
+
   ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat-square&logo=microsoft-visio&logoColor=white) 
+
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) 
 ---
 
