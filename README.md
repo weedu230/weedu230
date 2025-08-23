@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=weedu_knows_code;Mastering++%7C+Software+Engineering;Tech+Enthusiast+%7C+Anime+Lover;Code+%7C+Football+%7C+CR7+Forever" alt="Typing Animation" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=weedu230&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
