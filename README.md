@@ -1,4 +1,5 @@
-# 💻 Muhammad Waleed Ahmed (Weedu)[Portfolio](https://waleed-portfolio.lovable.app/)
+# 💻 Muhammad Waleed Ahmed (Weedu)
+- [Portfolio](https://waleed-portfolio.lovable.app/)
 
 
 <p align="center">
