@@ -79,7 +79,7 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 - **GitHub:** [github.com/weedu230](https://github.com/weedu230)  
 - **Email:** mwaleedahmed256@gmail.com  
-
+- **Linkedin:** https://www.linkedin.com/in/weedu/ 
 ---
 
 ## 🎯 Quotes & Fun Elements
