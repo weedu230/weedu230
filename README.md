@@ -1,5 +1,5 @@
 # 💻 Muhammad Waleed Ahmed (Weedu)
-- [Portfolio](https://waleed-portfolio.lovable.app/)
+
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.
+Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.Wanna see my portfolio click here [Portfolio](https://waleed-portfolio.lovable.app/)
 
 ---
 
