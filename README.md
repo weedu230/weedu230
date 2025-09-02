@@ -66,7 +66,7 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedu230&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=weedu230&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=weedu230)](https://git.io/streak-stats)
 ---
 
 ## 💡 Professional Interests
