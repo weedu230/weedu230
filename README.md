@@ -33,11 +33,10 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🧠 Software Development
-- Object-Oriented Design  
-- Design Patterns  
-- Clean Code Principles  
-- Software Architecture  
+### 🗄️ Databases:
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Version Control & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -62,10 +61,12 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 ## 📊 GitHub Stats
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weedu230&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=weedu230&theme=onedark)](https://github.com/anuraghazra/github-readme-streak-stats)   
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
+
+</p>
 
 ---
 
