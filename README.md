@@ -1,5 +1,5 @@
 # 💻 Muhammad Waleed Ahmed (Weedu)
-
+![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
 
 
 <p align="center">
