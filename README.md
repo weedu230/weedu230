@@ -1,4 +1,6 @@
-# 💻 Muhammad Waleed Ahmed (Weedu)                                  ![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
+# Muhammad Waleed Ahmed
+---
+![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
 
 
 
