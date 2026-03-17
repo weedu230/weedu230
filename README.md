@@ -1,7 +1,7 @@
 # Muhammad Waleed Ahmed
 ---
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
-
+---
 
 
 <p align="center">
@@ -12,13 +12,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.vercel.app/)
+I am Muhammad Waleed Ahmed, a Software Engineering undergraduate focused on building efficient, scalable, and well-structured applications. I specialize in Object-Oriented Programming, frontend systems, and software architecture, with hands-on experience in C, C++, C#, Java, Python, and JavaScript.
+I develop responsive web applications using HTML, CSS, React, and Next.js, backed by relational databases like MySQL and PostgreSQL. Beyond web projects, I implement core logic in C++ and explore system-level problem solving to strengthen my fundamentals.
+My interests include AI-driven applications, cybersecurity concepts, and full-stack development. I prioritize clean code, performance optimization, and practical implementation over theory alone.
+Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.vercel.app/)
 
 ---
 
-## 🔥 Technical Skills
+##  Technical Skills
 
 ### 🖥 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
@@ -64,7 +67,7 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weedu230&show_icons=true&theme=tokyonight" alt="Waleed's GitHub stats" />
@@ -80,25 +83,11 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 
 
-## 💡 Professional Interests
-
-- Artificial Intelligence & Machine Learning Applications  
-- Cybersecurity & Ethical Hacking  
-- Full-Stack Web Development  
-
----
-
-## 📫 Connect with Me
-
-- **GitHub:** [github.com/weedu230](https://github.com/weedu230)  
-- **Email:** mwaleedahmed256@gmail.com  
-- **Linkedin:** https://www.linkedin.com/in/weedu/ 
----
 
 ## 🎯 Quotes & Fun Elements
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)  
-
+   <p align="center">
+   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)  
+   </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Moving Snake Animation">
 </p>
