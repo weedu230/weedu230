@@ -1,4 +1,9 @@
-# Muhammad Waleed Ahmed
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f3460,100:16213e&height=220&section=header&text=Muhammad%20Waleed%20Ahmed&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Developer%20%7C%20Bahria%20University%20Student&descAlignY=58&descSize=18&animation=fadeIn&fontStyle=bold" />
+</div>
+
+<br/>
+
 ---
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
 ---
@@ -91,3 +96,10 @@ Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.ver
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Moving Snake Animation">
 </p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=130&section=footer" />
+
+<sub><b>Eat, Sleep, Code, Repeat.</b></sub>
+
+</div>
