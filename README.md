@@ -75,11 +75,10 @@ Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.ver
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weedu230&show_icons=true&theme=tokyonight" alt="Waleed's GitHub stats" />
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=weedu230&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weedu230&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </p>
 
 
@@ -89,10 +88,7 @@ Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.ver
 
 
 
-## 🎯 Quotes & Fun Elements
-   <p align="center">
-   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)  
-   </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Moving Snake Animation">
 </p>
