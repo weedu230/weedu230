@@ -1,11 +1,14 @@
-<div align="center">
+<div align="center"> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f3460,100:16213e&height=220&section=header&text=Muhammad%20Waleed%20Ahmed&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Developer%20%7C%20Bahria%20University%20Student&descAlignY=58&descSize=18&animation=fadeIn&fontStyle=bold" />
+
 </div>
 
 <br/>
 
 ---
+
 ![](https://komarev.com/ghpvc/?username=weedu230&color=blue) 
+
 ---
 
 
@@ -17,7 +20,7 @@
 
 ---
 
-##  About Me
+##  About Me  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 I am Muhammad Waleed Ahmed, a Software Engineering undergraduate focused on building efficient, scalable, and well-structured applications. I specialize in Object-Oriented Programming, frontend systems, and software architecture, with hands-on experience in C, C++, C#, Java, Python, and JavaScript.
 I develop responsive web applications using HTML, CSS, React, and Next.js, backed by relational databases like MySQL and PostgreSQL. Beyond web projects, I implement core logic in C++ and explore system-level problem solving to strengthen my fundamentals.
@@ -35,6 +38,8 @@ Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.ver
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img align="right" alt="AI Development" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
+<a href="#">
 
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
@@ -93,7 +98,7 @@ Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.ver
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Moving Snake Animation">
 </p>
 <div align="center">
-
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=130&section=footer" />
 
 <sub><b>Eat, Sleep, Code, Repeat.</b></sub>
