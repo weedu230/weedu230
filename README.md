@@ -22,9 +22,7 @@
 
 ##  About Me  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
-I am Muhammad Waleed Ahmed, a Software Engineering undergraduate focused on building efficient, scalable, and well-structured applications. I specialize in Object-Oriented Programming, frontend systems, and software architecture, with hands-on experience in C, C++, C#, Java, Python, and JavaScript.
-I develop responsive web applications using HTML, CSS, React, and Next.js, backed by relational databases like MySQL and PostgreSQL. Beyond web projects, I implement core logic in C++ and explore system-level problem solving to strengthen my fundamentals.
-My interests include AI-driven applications, cybersecurity concepts, and full-stack development. I prioritize clean code, performance optimization, and practical implementation over theory alone.
+I am Muhammad Waleed Ahmed, a Software Engineering undergraduate focused on building efficient, scalable, and well-structured applications. 
 Wanna see my portfolio click here [Portfolio](https://waleed-portfolio-omega.vercel.app/)
 
 ---
